@@ -2,7 +2,7 @@
 <img src="https://github.com/canesecurvin/eBee/blob/master/eBee/assets/ebeeLogo.png" width="160" height=auto />
 
 # eBee: A Digitized Business Card Experience
-<img src="https://github.com/canesecurvin/eBee/blob/master/eBee/assets/ebee-prototype.PNG" width="160" height=auto />
+<img src="https://github.com/canesecurvin/eBee/blob/master/eBee/assets/ebee-prototype.PNG" width="500" height=auto />
 
 ## Description
 eBee is an electronic business card platform. We are working to eliminate the use of paper cards by creating, trading, and storing business cards digitally and on the cloud.

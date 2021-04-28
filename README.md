@@ -1,0 +1,4 @@
+# eBee-Cards
+eBee is an electronic business card platform. We are working to eliminate the use of paper cards by creating, trading, and storing business cards digitally and on the cloud.
+
+this is a test
